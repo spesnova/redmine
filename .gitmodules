@@ -4,3 +4,6 @@
 [submodule "public/themes/gitmike"]
 	path = public/themes/gitmike
 	url = git://github.com/makotokw/redmine-theme-gitmike.git
+[submodule "plugins/redmine_redcarpet_formatter"]
+	path = plugins/redmine_redcarpet_formatter
+	url = git://github.com/alminium/redmine_redcarpet_formatter.git
