@@ -1,3 +1,6 @@
 [submodule "plugins/redmine_backlogs"]
 	path = plugins/redmine_backlogs
 	url = git://github.com/backlogs/redmine_backlogs.git
+[submodule "public/themes/gitmike"]
+	path = public/themes/gitmike
+	url = git://github.com/makotokw/redmine-theme-gitmike.git
