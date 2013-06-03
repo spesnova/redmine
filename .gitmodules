@@ -7,3 +7,6 @@
 [submodule "plugins/redmine_redcarpet_formatter"]
 	path = plugins/redmine_redcarpet_formatter
 	url = git://github.com/alminium/redmine_redcarpet_formatter.git
+[submodule "plugins/redmine_local_avatars"]
+	path = plugins/redmine_local_avatars
+	url = git://github.com/ncoders/redmine_local_avatars.git
