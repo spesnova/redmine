@@ -13,3 +13,6 @@
 [submodule "plugins/clipboard_image_paste"]
 	path = plugins/clipboard_image_paste
 	url = git://github.com/peclik/clipboard_image_paste.git
+[submodule "plugins/redmine_inline_note_images_plugin"]
+	path = plugins/redmine_inline_note_images_plugin
+	url = git://github.com/anjlab/redmine_inline_note_images_plugin.git
