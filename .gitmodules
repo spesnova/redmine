@@ -13,3 +13,6 @@
 [submodule "plugins/redmine_inline_note_images_plugin"]
 	path = plugins/redmine_inline_note_images_plugin
 	url = git://github.com/anjlab/redmine_inline_note_images_plugin.git
+[submodule "public/themes/gitmike"]
+	path = public/themes/gitmike
+	url = git://github.com/makotokw/redmine-theme-gitmike.git
