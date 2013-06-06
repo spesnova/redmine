@@ -16,3 +16,6 @@
 [submodule "public/themes/gitmike"]
 	path = public/themes/gitmike
 	url = git://github.com/makotokw/redmine-theme-gitmike.git
+[submodule "public/themes/coffee"]
+	path = public/themes/coffee
+	url = git://github.com/spesnova/redmine_coffee_theme.git
