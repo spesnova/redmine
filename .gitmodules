@@ -19,3 +19,6 @@
 [submodule "public/themes/coffee"]
 	path = public/themes/coffee
 	url = git://github.com/spesnova/redmine_coffee_theme.git
+[submodule "plugins/redmine_questions"]
+	path = plugins/redmine_questions
+	url = git://github.com/spesnova/redmine_questions.git
